@@ -1,7 +1,7 @@
 ---
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+description: Capturing harmony through every frame.
 #lastmod: 2023-07-05
-title: Hugo Gallery
+title: Life Balance
 resources:
   - src: 640244d9-0ee8-41ba-b4ff-7151c2a33bcb.jpg
     params:
