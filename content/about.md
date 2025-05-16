@@ -7,6 +7,8 @@ menu:
     weight: 90
 ---
 
+![About Photo](/640244d9-0ee8-41ba-b4ff-7151c2a33bcb.jpg)
+
 I’m a photographer who sees more than just a frame. For 17 years, I’ve been capturing fleeting moments and turning them into stories.
 
 Behind the lens, I don’t just shoot — I feel.
