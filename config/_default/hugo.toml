@@ -1,25 +1,25 @@
-copyright = "© Your Name"
+copyright = "© 2025 Life Balance. All rights reserved"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
-timeZone = "Europe/Berlin"
+timeZone = "America/Chicago"
 timeout = "120s"
-title = "Gallery"
+title = "Photography by Life Balance"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  description = "Capturing harmony through every frame."
+  title = "Photography by Life Balance"
   [params.author]
-    email = "user@example.com"
-    name = "Your Name"
+    email = "life.balance24h@gmail.com"
+    name = "Life Balance"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    github = "https://github.com/tiksn/LifeBalanceWebsite/"
-    youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
+    facebook = "https://www.facebook.com/profile.php?id=100017218727350"
+    instagram = "https://www.instagram.com/life.balance24h/"
+    #github = "https://github.com/tiksn/LifeBalanceWebsite/"
+    #youtube = "https://www.youtube.com/"
+    email = "mailto:life.balance24h@gmail.com"
     #website = "https://example.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
