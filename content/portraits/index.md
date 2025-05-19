@@ -5,12 +5,12 @@ title: Portraits
 categories: ["portraits"]
 weight: 1
 params:
-  featured_image: 069.jpg
+  featured_image: 000.jpg
   theme: dark
   sort_order: asc
   sort_by: Name # Exif.Date
 resources:
-  - src: 069.jpg
+  - src: 000.jpg
     params:
       cover: true
 ---
