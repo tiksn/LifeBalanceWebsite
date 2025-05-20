@@ -1,7 +1,7 @@
 ---
 description: Capturing harmony through every frame.
 #lastmod: 2023-07-05
-title: Life Balance
+title: Kseniia Shevchenko Photography
 resources:
   - src: 640244d9-0ee8-41ba-b4ff-7151c2a33bcb.jpg
     params:

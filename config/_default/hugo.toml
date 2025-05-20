@@ -1,19 +1,19 @@
-copyright = "© 2025 Life Balance. All rights reserved"
+copyright = "© 2025 Kseniia Shevchenko Photography. All rights reserved"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
 timeZone = "America/Chicago"
 timeout = "120s"
-title = "Photography by Life Balance"
+title = "Photography by Kseniia Shevchenko"
 
 [params]
   defaultTheme = "dark"
   description = "Capturing harmony through every frame."
-  title = "Photography by Life Balance"
+  title = "Photography by Kseniia Shevchenko"
   [params.author]
     email = "life.balance24h@gmail.com"
-    name = "Life Balance"
+    name = "Kseniia Shevchenko Photography"
   [params.socialIcons]
     facebook = "https://www.facebook.com/profile.php?id=100017218727350"
     instagram = "https://www.instagram.com/life.balance24h/"
