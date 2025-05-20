@@ -1,11 +1,17 @@
-# Example site for hugo-theme-gallery
+# Kseniia Shevchenko Photography
 
-## Installation
+## Website Owner Information
 
-```
-# Install Hugo module
-hugo mod get
+**Name:** Kseniia Shevchenko Photography
 
-# Pull example images from Unsplash
-./pull-images.sh
-```
+**Owner:** Kseniia Shevchenko
+
+**Website:** [www.kseniia.netlify.app ](https://kseniia.netlify.app/)
+
+## Website Development
+
+This website was designed and developed by:  
+
+**Name:** Tigran (TIKSN) Torosyan
+
+**Website:** [tiksn.com](https://tiksn.com/) 
